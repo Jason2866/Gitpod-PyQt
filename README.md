@@ -1,4 +1,4 @@
-# Tasmota Device Manager
+# Tasmota Device Manager Test for Docker NOT WORKING. JUST GUI!!!
 Easy to use GUI application to manage, configure and monitor devices flashed with [Tasmota firmware](https://github.com/arendst/Tasmota)
 
 [![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/jziolkowski/tdm?style=for-the-badge)](https://github.com/jziolkowski/tdm/releases/latest)
